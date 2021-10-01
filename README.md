@@ -5,8 +5,9 @@ TECHNOLOGIES USED
 Python 3.6.2
 Google Colab
 Pycharm
-Different python  libraries such as keras, tensorflow, numpy, flask 
+Different python  libraries such as keras, tensorflow, numpy, flask
 Google Chrome(To run the web page)
+
 
 ---------------------------------------------------------------------
 
