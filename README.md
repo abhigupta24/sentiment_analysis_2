@@ -45,7 +45,7 @@ Google Chrome(To run the web page)<br/><br/>
 ### Step 4: install all the libraries using requirements.txt file using the command<br/>
 ####                     <tr/>install -r requirements.txt<br/>
 ### Step 5: run the main.py file by opening command prompt<br/>
-####                     in the AI_App and use command<br/>
+###         in the AI_App and use command<br/>
 ####                     python main.py
        
 -------------------------------------------------------------------------------------
