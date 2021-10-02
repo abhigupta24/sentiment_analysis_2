@@ -1,5 +1,6 @@
-# This web app is developed using LSTM Model<br/>
-### We have used the IMDB dataset of the Keras package<br/><br/><br/>
+# This web app is developed using LSTM Model<br/> 
+# and deployed on local machine using flask server<br/>
+#### We have used the IMDB dataset of the Keras package<br/><br/><br/>
 --------------------------------------------------------------------
 
 # TECHNOLOGIES USED<br/>
@@ -12,14 +13,16 @@ Google Chrome(To run the web page)<br/><br/>
 --------------------------------------------------------------------
 # Contents of the Resporitary
 ## 1.AI_App Folder
-     * static folder
-       * img_pool folder- It contains images for the output.
-       * pic.jpg- Backgroung imge of the webpage.
-     * templates folder-
-       * home.html- It contains the webpage.
+###     * static folder
+          * img_pool folder- It contains images for the output.
+          * pic.jpg- Backgroung imge of the webpage.
+###     * templates folder
+          * home.html- It contains the webpage.
+###     * main.py
+          It contains the python file to load the local flask server
 ## 2.Readme.md- 
-         It contains details of the project.
-## 
+          It contains details of the project.
+## 3.
         
 ### 
 
@@ -33,10 +36,10 @@ Google Chrome(To run the web page)<br/><br/>
 ### Step 2: install python 3.6.2<br/>
 ### Step 3: open command prompt in the AI_App folder<br/>
 ### Step 4: install all the libraries using requirements.txt file using the command<br/>
-####                     install -r requirements.txt<br/>
+####                     <tr/>install -r requirements.txt<br/>
 ### Step 5: run the app.py file by opening command prompt<br/>
-####                     int the AI_App and use command<br/>
-####                     python app.py
+####                     <tr/>int the AI_App and use command<br/>
+####                     <tr/>python app.py
        
 -------------------------------------------------------------------------------------
 ###                           THANK YOU
