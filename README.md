@@ -37,7 +37,7 @@ Google Chrome(To run the web page)<br/><br/>
 
 # Steps to run the app on the local machine<br/>
 
-### Step 1: clone this resporitary using git in desired folder using the command<br/>
+### Step 1: clone this resporitory using git in desired folder using the command<br/>
 ####                     git clone https://github.com/samrat-7/sentiment_analysis_2.git<br/>
        
 ### Step 2: install python 3.6.2<br/>
