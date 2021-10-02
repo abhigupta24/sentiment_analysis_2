@@ -1,5 +1,5 @@
-**This web app is developed using LSTM Model<br/>
-# We have used the IMDB dataset of the Keras package<br/><br/><br/>
+# This web app is developed using LSTM Model<br/>
+### We have used the IMDB dataset of the Keras package<br/><br/><br/>
 ---------------------------------------------------
 
 # TECHNOLOGIES USED<br/>
