@@ -19,12 +19,19 @@ Google Chrome(To run the web page)<br/><br/>
 ###     * templates folder
           * home.html- It contains the webpage.
 ###     * main.py
-          It contains the python file to load the local flask server
-## 2.Readme.md- 
+          It contains the python file to load the local flask server.
+###     * requirements.txt
+          It contains information of all the required libraries.
+###     * runtime.txt
+          It contains the python version during runtime.
+###     * sentiment_analysis.h5
+          It contains the pretrained model for sentiment analysis
+## 2.Readme.md
           It contains details of the project.
-## 3.
-        
-### 
+## 3.Sentiment_Analysis_IMDB.ipynb
+          It contains the code to do training of the dataset
+## 4.sentiment_analysis_imdb.py
+          It contains the code of Sentiment_Analysis_IMDB.ipynb in the .py format 
 
 ---------------------------------------------------------------------
 
